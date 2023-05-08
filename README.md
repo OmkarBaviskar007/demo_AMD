@@ -1,1 +1,1 @@
-# demo_AMD
+# Dice_Game
